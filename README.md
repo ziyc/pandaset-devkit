@@ -26,17 +26,17 @@ Unpack the archive into any directory on your hard disk. The path will be refere
 ├── LICENSE.txt
 ├── annotations
 │   ├── cuboids
-│   │   ├── 00.pkl.gz
+│   │   ├── 00.pkl
 │   │   .
 │   │   .
 │   │   .
-│   │   └── 79.pkl.gz
+│   │   └── 79.pkl
 │   └── semseg  // Semantic Segmentation is available for specific scenes
-│       ├── 00.pkl.gz
+│       ├── 00.pkl
 │       .
 │       .
 │       .
-│       ├── 79.pkl.gz
+│       ├── 79.pkl
 │       └── classes.json
 ├── camera
 │   ├── back_camera
@@ -59,11 +59,11 @@ Unpack the archive into any directory on your hard disk. The path will be refere
 │   └── right_camera
 │       └── ...
 ├── lidar
-│   ├── 00.pkl.gz
+│   ├── 00.pkl
 │   .
 │   .
 │   .
-│   ├── 79.pkl.gz
+│   ├── 79.pkl
 │   ├── poses.json
 │   └── timestamps.json
 └── meta
